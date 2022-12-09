@@ -333,7 +333,7 @@ either the roboRIOs CANBus or the CANivore. SparkMAXes can be only connected to 
         1. CAN ID for the CANCoder
         1. The module offset in radians.
     
-        ```$xslt
+        ```java
         m_frontLeft = Mk4SwerveModuleHelper.createNeo(
             // Push module information to shuffle boards
             tab.getLayout("Front Left Module", BuiltInLayouts.kList)
