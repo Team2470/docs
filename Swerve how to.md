@@ -16,8 +16,11 @@
 
 3. SDS Swervelib
 
-    Copy the file content of [SDS Swerve Library Config](https://raw.githubusercontent.com/nowireless/TurretSwerve/main/vendordeps/SdsSwerveLib.json) to vendordeps/SdsSwerveLib.json
-    Then WPILIB -> Manage Vender Libraries -> Install new (Offline)
+    Copy the file content of [SDS Swerve Library Config](https://raw.githubusercontent.com/nowireless/TurretSwerve/main/vendordeps/SdsSwerveLib.json) to `vendordeps/SdsSwerveLib.json`  
+    Then use the WPILIB tool to `Install new Libraries (Offline)`  
+    
+    Or
+    Use the WPILIB tool to install the Library with this url `https://raw.githubusercontent.com/nowireless/TurretSwerve/main/vendordeps/SdsSwerveLib.json`
     
 ## 3. Constants
 ### 1. Add CANBus enum
