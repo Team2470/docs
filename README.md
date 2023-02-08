@@ -1,4 +1,4 @@
-# Documents for the 2023 FRC Charged Up Competition
+# Documents for the 2023 FRC Season - Charged Up 
 
 ## Useful links
 ### WPILib
